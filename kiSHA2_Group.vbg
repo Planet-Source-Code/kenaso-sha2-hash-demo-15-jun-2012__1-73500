@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=kiSHA2_Demo.vbp
+Project=DLL\kiSHA2.vbp
